@@ -1,0 +1,76 @@
+﻿# ===================================
+# Python files and caches
+# ===================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.dll
+
+# ===================================
+# Virtual environments
+# ===================================
+.venv/
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# ===================================
+# Test and coverage files
+# ===================================
+.pytest_cache/
+.tox/
+.coverage
+coverage.xml
+htmlcov/
+.cache/
+.mypy_cache/
+.dmypy.json
+.pyre/
+hypothesis/
+
+# ===================================
+# Logs, temporary and backup files
+# ===================================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# ===================================
+# IDE and editor configurations
+# ===================================
+.vscode/
+.idea/
+*.vs/
+.vsconfig
+*.sublime-workspace
+*.sublime-project
+
+# ===================================
+# Operating system files
+# ===================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===================================
+# Build and distribution artifacts
+# ===================================
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# ===================================
+# Git submodules
+# ===================================
+.gitmodules.lock
+*.rej

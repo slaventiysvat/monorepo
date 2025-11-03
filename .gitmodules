@@ -1,0 +1,27 @@
+[submodule "unit-tests"]
+	path = unit-tests
+	url = https://github.com/slaventiysvat/unit-tests.git
+[submodule "git-pycore-hw-03"]
+	path = git-pycore-hw-03
+	url = https://github.com/slaventiysvat/git-pycore-hw-03.git
+[submodule "git-pycore-hw-04"]
+	path = git-pycore-hw-04
+	url = https://github.com/slaventiysvat/git-pycore-hw-04.git
+[submodule "git-pycore-hw-05"]
+	path = git-pycore-hw-05
+	url = https://github.com/slaventiysvat/git-pycore-hw-05.git
+[submodule "git-pycore-hw-06"]
+	path = git-pycore-hw-06
+	url = https://github.com/slaventiysvat/git-pycore-hw-06.git
+[submodule "git-pycore-hw-07"]
+	path = git-pycore-hw-07
+	url = https://github.com/slaventiysvat/git-pycore-hw-07.git
+[submodule "git-pycore-hw-08"]
+	path = git-pycore-hw-08
+	url = https://github.com/slaventiysvat/git-pycore-hw-08.git
+[submodule "git-pycore-hw-09"]
+	path = git-pycore-hw-09
+	url = https://github.com/slaventiysvat/git-pycore-hw-09.git
+[submodule "git-pycore-hw-10"]
+	path = git-pycore-hw-10
+	url = https://github.com/slaventiysvat/git-pycore-hw-10.git
